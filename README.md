@@ -9,17 +9,17 @@
 
 ## Virtual Tes Tahap ke 2
 
-Database &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : db_perpustakaan_tes2.sql <br>
+Database &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : db_perpustakaan_tes2.sql <br>
 Login Account : <br>
 - Admin <br>
-Email &nbsp;&nbsp;&nbsp;: admin_perpus@gmail.com <br>
+Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: admin_perpus@gmail.com <br>
 Password : admin123 <br>
-Feature &nbsp;&nbsp;: Login, Update Profile, Reset Password view Email, Mengelola Data Buku, Mengelola Data Pencipta Buku, Mengelola Data User Non-Admin, Logout <br> <br>
+Feature &nbsp;&nbsp;&nbsp;: Login, Update Profile, Reset Password view Email, Mengelola Data Buku, Mengelola Data Pencipta Buku, Mengelola Data User Non-Admin, Logout <br> <br>
 
 - Non Admin <br>
-Email &nbsp;&nbsp;&nbsp;: rd.saleh13@gmail.com <br>
+Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rd.saleh13@gmail.com <br>
 Password : virtualtes2 <br>
-Feature &nbsp;&nbsp;: Login, Update Profile, Reset Password via Email, Melihat Data Buku, Melihat Data Pencipta Buku, Logout <br><br>
+Feature &nbsp;&nbsp;&nbsp;: Login, Update Profile, Reset Password via Email, Melihat Data Buku, Melihat Data Pencipta Buku, Logout <br><br>
 
 ## License
 
